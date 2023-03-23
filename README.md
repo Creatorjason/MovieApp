@@ -1,4 +1,3 @@
-![Project screen shot]("https://github.com/Creatorjason/MovieApp/blob/714b3767557531eea8f7649f25778f8e66e5cb57/Screenshot%202023-03-23%20at%2016.03.43.png" "projet screenshot")
 
 # Getting Started with Create React App
 
